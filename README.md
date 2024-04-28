@@ -9,18 +9,18 @@ Um repositório para armazenar e compartilhar as atividades na disciplina de Pro
   - [📋 Descrição](#-descrição)
     - [🚀 Funcionalidades](#-funcionalidades)
     - [📸 Prévia](#-prévia)
-  - [⚙️ Construção](#-construção)
+  - [⚙️ Construção](#️-construção)
     - [💻 Tecnologias](#-tecnologias)
-    - [🛠️ Ferramentas](#-ferramentas)
+    - [🛠️ Ferramentas](#️-ferramentas)
     - [📌 Versão](#-versão)
-  - [✏️ Aprendizado](#-aprendizado)
-  - [✒️ Autores](#-autores)
+  - [✏️ Aprendizado](#️-aprendizado)
+  - [✒️ Autores](#️-autores)
   - [🎁 Agradecimentos](#-agradecimentos)
   - [📨 Contato](#-contato)
 
 ## 📋 Descrição
 
-O repositório foi criado para armazenar e compartilhar as atividades na disciplina de Probabilidade e Estatística. A disciplina é ministrada pelo professor Hugo Tremonte Carvalho a e tem como objetivo apresentar conceitos fundamentais de probabilidade e estatística, bem como suas aplicações em problemas práticos, principalmente para estudantes de computação.
+O repositório foi criado para armazenar e compartilhar as atividades na disciplina de Probabilidade e Estatística. A disciplina é ministrada pelo professor Hugo Carvalho, no curso de Ciência da Computação na UFRJ e tem como objetivo apresentar conceitos fundamentais de probabilidade e estatística, bem como suas aplicações em problemas práticos, principalmente para estudantes de computação.
 
 ### 🚀 Funcionalidades
 
