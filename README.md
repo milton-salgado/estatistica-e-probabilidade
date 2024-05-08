@@ -1,10 +1,10 @@
-# 🎲 Probababilidade e Estatística
+# 🎲 Estatística e Probabilidade
 
 Um repositório para armazenar e compartilhar as atividades na disciplina de Probabilidade e Estatística.
 
 ## 📚 Tabela de Conteúdos
 
-- [🎲 Probababilidade e Estatística](#-probababilidade-e-estatística)
+- [🎲 Estatística e Probabilidade](#-estatística-e-probabilidade)
   - [📚 Tabela de Conteúdos](#-tabela-de-conteúdos)
   - [📋 Descrição](#-descrição)
     - [🚀 Funcionalidades](#-funcionalidades)
@@ -32,7 +32,7 @@ As funcionalidades disponíveis estão listadas abaixo:
 
 ### 📸 Prévia
 <div align="center">
-  <img src="./imagens/probabilidade-e-estatistica-preview.jpg" width="500" height="500">
+  <img src="./imagens/estatistica-e-probabilidade-preview.jpg" width="500" height="500">
 </div>
 
 ## ⚙️ Construção
